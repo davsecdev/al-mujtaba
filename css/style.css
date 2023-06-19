@@ -1,0 +1,57 @@
+body {
+    background-color: #1a1a1a;
+    color: #ffffff;
+  }
+
+  .navbar {
+    background-color: #1a1a1a;
+  }
+
+  .navbar-light .navbar-nav .nav-link {
+    color: #ffffff;
+  }
+
+  .jumbotron {
+    background-color: #343a40;
+    color: #ffffff;
+  }
+
+  .card {
+    background-color: #343a40;
+    color: #ffffff;
+  }
+
+  .card-text {
+    color: #f8f9fa;
+  }
+
+  .bg-light {
+    background-color: #343a40 !important;
+    color: #ffffff;
+  }
+
+  .bg-dark {
+    background-color: #1a1a1a !important;
+    color: #ffffff;
+  }
+
+  .text-light {
+    color: #ffffff !important;
+  }
+
+  .py-5 {
+    padding-top: 3rem !important;
+    padding-bottom: 3rem !important;
+  }
+
+  .mb-5 {
+    margin-bottom: 3rem !important;
+  }
+
+  .text-center {
+    text-align: center !important;
+  }
+
+  .text-muted {
+    color: #6c757d !important;
+  }
